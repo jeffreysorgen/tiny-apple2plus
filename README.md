@@ -1,6 +1,14 @@
-# Welcome to GitHub Desktop!
+# Tiny Apple II+
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repository is...
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Jeffrey Sorgen
+To do:
+- Upload Integer BASIC and Applesoft to a microcontroller
+- 3d print a mini Apple II+ to contain it
+- Upload Apple programs to SD card
+- 3d print a mini floppy drive for SD card
+- Attach mini drive to mini Apple (with wire)
+- 3d print a mini monitor
+- Attach Adafuit monitor to 3d printed one
+- Attach monitor to Apple (with wire)
+- Use Bluetooth to attach Mac/any keyboard
